@@ -22,20 +22,20 @@
   - [Σύστημα Διαχείρισης Περιεχομένου](https://www.upmate.gr/el/υπηρεσίες/web-development/σύστημα-διαχείρισης-περιεχομένου/)
 - [Internet Marketing](https://www.upmate.gr/el/υπηρεσίες/internet-marketing/)
   - [Social Media](https://www.upmate.gr/el/υπηρεσίες/internet-marketing/social-media/)
-  - Βελτιστοποίηση Ιστοσελίδων
-  - Email Marketing
-  - Google Ads
-  - Facebook Ads
-  - Google Analytics
-  - Συγγραφή Κειμένου
-  - Web SMS
-  - Διαχείριση Λογαριασμού Google My Business
-- Digital Printing
-  - Επαγγελματικές Κάρτες
-  - Εταιρική Ταυτότητα
-  - Αφίσες
-  - Διαφημιστικά Έντυπα
-  - Κατάλογοι Προϊόντων
-  - Folders
-  - Κάρτες Τύπου Πιστωτικής
-  - Άλλες Εκτυπώσεις
+  - {Βελτιστοποίηση Ιστοσελίδων}(https://www.upmate.gr/el/υπηρεσίες/internet-marketing/Βελτιστοποίηση-Ιστοσελίδας/)
+  - {Email Marketing}(https://www.upmate.gr/el/υπηρεσίες/internet-marketing/email-marketing/)
+  - [Google Ads](https://www.upmate.gr/el/υπηρεσίες/internet-marketing/google-adwords/)
+  - [Facebook Ads](https://www.upmate.gr/el/υπηρεσίες/internet-marketing/διαχείριση-facebook-ads/)
+  - [Google Analytics](https://www.upmate.gr/el/υπηρεσίες/internet-marketing/google-analytics/)
+  - {Συγγραφή Κειμένου}(https://www.upmate.gr/el/υπηρεσίες/internet-marketing/συγγραφή-κειμένου/)
+  - [Web SMS](https://www.upmate.gr/el/υπηρεσίες/internet-marketing/web-sms/)
+  - [Διαχείριση Λογαριασμού Google My Business](https://www.upmate.gr/el/υπηρεσίες/internet-marketing/google-my-business/)
+- [Digital Printing](https://www.upmate.gr/el/υπηρεσίες/digital-printing/)
+  - [Επαγγελματικές Κάρτες](https://www.upmate.gr/el/υπηρεσίες/digital-printing/επαγγελματικές-κάρτες/)
+  - [Εταιρική Ταυτότητα](https://www.upmate.gr/el/υπηρεσίες/digital-printing/εταιρική-ταυτότητα/)
+  - [Αφίσες](https://www.upmate.gr/el/υπηρεσίες/digital-printing/αφίσες/)
+  - [Διαφημιστικά Έντυπα](https://www.upmate.gr/el/υπηρεσίες/digital-printing/διαφημιστικά-έντυπα/)
+  - [Κατάλογοι Προϊόντων](https://www.upmate.gr/el/υπηρεσίες/digital-printing/κατάλογοι-προϊόντων/)
+  - [Folders](https://www.upmate.gr/el/υπηρεσίες/digital-printing/folders/)
+  - [Κάρτες Τύπου Πιστωτικής](https://www.upmate.gr/el/υπηρεσίες/digital-printing/κάρτες-τύπου-πιστωτικής/)
+  - [Άλλες Εκτυπώσεις](https://www.upmate.gr/el/υπηρεσίες/digital-printing/άλλες-εκτυπώσεις/)
