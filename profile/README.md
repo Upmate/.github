@@ -8,20 +8,20 @@
 
 ## ΠΑΡΕΧΟΥΜΕ ΥΠΗΡΕΣΙΕΣ ΓΙΑ ΟΛΕΣ ΣΑΣ ΤΙΣ ΑΝΑΓΚΕΣ
 
-- [Creative Design](https://www.upmate.gr/el/%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CF%8C-design/)
-  - [Σχεδιασμός Λογοτύπου](https://www.upmate.gr/el/%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CF%8C-design/%CF%83%CF%87%CE%B5%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CF%8C%CF%82-%CE%BB%CE%BF%CE%B3%CE%BF%CF%84%CF%8D%CF%80%CE%BF%CF%85/)
+- [Creative Design](https://www.upmate.gr/el/υπηρεσίες/δημιουργικό-design/)
+  - [Σχεδιασμός Λογοτύπου](https://www.upmate.gr/el/υπηρεσίες/δημιουργικό-design/σχεδιασμός-λογοτύπου/)
   - [Δημιουργία Εταιρικής Ταυτότητας](https://www.upmate.gr/el/υπηρεσίες/δημιουργικό-design/δημιουργία-εταιρικής-ταυτότητας/)
   - [Σχεδιασμός Ιστοσελίδας](https://www.upmate.gr/el/υπηρεσίες/δημιουργικό-design/σχεδιασμός-ιστοσελίδας/)
-  - Σχεδιασμός Εντύπων
-- Website Development
-  - Κατασκευή Ιστοσελίδας
-  - Κατασκευή Eshop
-  - Web Εφαρμογές
-  - Φιλοξενία Ιστοδελίδας
-  - Υπηρεσίες Υποστήριξης
-  - Σύστημα Διαχείρισης Περιεχομένου
-- Internet Marketing
-  - Social Media
+  - [Σχεδιασμός Εντύπων](https://www.upmate.gr/el/υπηρεσίες/δημιουργικό-design/σχεδιασμός-εντύπων/)
+- [Website Development](https://www.upmate.gr/el/υπηρεσίες/web-development/)
+  - [Κατασκευή Ιστοσελίδας](https://www.upmate.gr/el/υπηρεσίες/web-development/κατασκευή-ιστοσελίδας/)
+  - [Κατασκευή Eshop](https://www.upmate.gr/el/υπηρεσίες/web-development/κατασκευή-eshop/)
+  - [Web Εφαρμογές](https://www.upmate.gr/el/υπηρεσίες/web-development/web-εφαρμογές/)
+  - [Φιλοξενία Ιστοδελίδας](https://www.upmate.gr/el/υπηρεσίες/web-development/φιλοξενία-ιστοσελίδας/)
+  - [Υπηρεσίες Υποστήριξης](https://www.upmate.gr/el/υπηρεσίες/web-development/υπηρεσίες-υποστήριξης/)
+  - [Σύστημα Διαχείρισης Περιεχομένου](https://www.upmate.gr/el/υπηρεσίες/web-development/σύστημα-διαχείρισης-περιεχομένου/)
+- [Internet Marketing](https://www.upmate.gr/el/υπηρεσίες/internet-marketing/)
+  - [Social Media](https://www.upmate.gr/el/υπηρεσίες/internet-marketing/social-media/)
   - Βελτιστοποίηση Ιστοσελίδων
   - Email Marketing
   - Google Ads
