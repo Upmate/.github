@@ -10,7 +10,7 @@
 
 - [Creative Design](https://www.upmate.gr/el/%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CF%8C-design/)
   - [Σχεδιασμός Λογοτύπου](https://www.upmate.gr/el/%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CF%8C-design/%CF%83%CF%87%CE%B5%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CF%8C%CF%82-%CE%BB%CE%BF%CE%B3%CE%BF%CF%84%CF%8D%CF%80%CE%BF%CF%85/)
-  - Δημιουργία Εταιρικής Ταυτότητας
+  - [Δημιουργία Εταιρικής Ταυτότητας] (https://www.upmate.gr/el/υπηρεσίες/δημιουργικό-design/δημιουργία-εταιρικής-ταυτότητας/)
   - Σχεδιασμός Ιστοσελίδας
   - Σχεδιασμός Εντύπων
 - Website Development
